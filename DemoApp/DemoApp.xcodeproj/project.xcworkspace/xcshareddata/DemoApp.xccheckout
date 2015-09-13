@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7EA21946-EFC7-4F85-A31A-D794256B25BC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3B9A8BE0DADA29AD8C94637EBAA61A3093A10A39</key>
+		<string>https://github.com/maxxx777/MTNetworkWrapper</string>
+		<key>7B3173A9A8711E26B2B7E8EB32A82862FE9BF726</key>
+		<string>https://bitbucket.org/alexthec0d3r/scheduleapp-iphone-cloned.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DemoApp/DemoApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3B9A8BE0DADA29AD8C94637EBAA61A3093A10A39</key>
+		<string>../../..</string>
+		<key>7B3173A9A8711E26B2B7E8EB32A82862FE9BF726</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/maxxx777/MTNetworkWrapper</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3B9A8BE0DADA29AD8C94637EBAA61A3093A10A39</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7B3173A9A8711E26B2B7E8EB32A82862FE9BF726</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3B9A8BE0DADA29AD8C94637EBAA61A3093A10A39</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MTNetworkWrapper</string>
+		</dict>
+	</array>
+</dict>
+</plist>
