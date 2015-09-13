@@ -6,4 +6,4 @@
 
 typedef void (^MTNetworkWrapperRequestCompletionBlock)(id rawData, NSError *error);
 
-static NSString * const MTNetworkWrapperErrorDomain = @"com.maxxx.VIPERDemoApp.NetworkWrapperErrorDomain";
+static NSString * const MTNetworkWrapperErrorDomain = @"MTNetworkWrapper.ErrorDomain";
