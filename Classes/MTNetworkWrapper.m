@@ -6,11 +6,10 @@
 
 #import "MTNetworkWrapper.h"
 #import "JSONKit.h"
-#import "MTMockServer.h"
 
 @interface MTNetworkWrapper ()
 
-@property (nonatomic, strong) MTMockServer *mockServer;
+@property (nonatomic, strong) id<MTNetworkWrapperInterface> mockServer;
 @property (nonatomic, copy) MTNetworkWrapperRequestCompletionBlock requestCompletionBlock;
 
 @end

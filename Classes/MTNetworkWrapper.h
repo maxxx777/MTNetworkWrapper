@@ -11,6 +11,6 @@
     MTNetworkWrapperInterface
 >
 
-- (instancetype)initWithMockServer:(id)mockServer;
+- (instancetype)initWithMockServer:(id<MTNetworkWrapperInterface>)mockServer;
 
 @end
