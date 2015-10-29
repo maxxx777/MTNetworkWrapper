@@ -5,7 +5,6 @@
 //
 
 #import "MTNetworkWrapper.h"
-#import "JSONKit.h"
 
 @interface MTNetworkWrapper ()
 
@@ -75,8 +74,7 @@
     NSData *result = [string dataUsingEncoding:NSUTF8StringEncoding];
 //    DLog(@"response: %@", string);
     
-    return [result objectFromJSONDataWithParseOptions:JKParseOptionNone error:error];
-    
+    return [NSJSONSerialization JSONObjectWithData:result options:kNilOptions error:error];    
 }
 
 @end
